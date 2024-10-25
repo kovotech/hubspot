@@ -1,0 +1,8 @@
+samples/
+*test*
+*__pycache__*
+env/
+hubspot_key_samples
+Logs/
+*.log*
+Test_Logs/
